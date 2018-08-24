@@ -2,4 +2,4 @@
 title: RPG games and notes
 ---
 
-asdf
+Just a collection of notes and such about RPG games.
