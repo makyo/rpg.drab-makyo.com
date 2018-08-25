@@ -1,0 +1,3 @@
+---
+title: ... (Kaze's character)
+---
