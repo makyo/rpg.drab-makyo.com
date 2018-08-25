@@ -23,9 +23,9 @@ Background
 
 Stats
 :  
-    * STR 18 (4)
+    * STR 17 (4)
     * DEX 8 (-1)
     * CON 16 (3)
     * INT 11 (0)
-    * WIS 14 (2)
-    * CHA 17 (3)
+    * WIS 15 (2)
+    * CHA 16 (3)
