@@ -2,4 +2,4 @@
 title: Games
 ---
 
-* [Corgi's ??? campaign](corgi)
+* [Corgi's D&D campaign](corgi)
