@@ -1,5 +1,5 @@
 ---
-title: ... (Maddy's character)
+title: Sera (Maddy's character)
 ---
 
 Species
