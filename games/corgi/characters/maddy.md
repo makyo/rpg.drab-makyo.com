@@ -5,5 +5,14 @@ title: ... (Maddy's character)
 Species
 :   Kobold
 
+Class
+:   Ranger
+
+Background
+:   Merchant/guild member
+
+Weapon
+:   Short bow
+
 Description
-:   ... is a hypercapitalist kobold with a heart of gold.
+:   a hypercapitalist kobold with a heart of gold.

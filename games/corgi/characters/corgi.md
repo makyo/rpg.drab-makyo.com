@@ -1,3 +1,0 @@
----
-title: ... (Corgi's character)
----
