@@ -8,6 +8,9 @@ Species
 Class
 :   Ranger
 
+Alignment
+:   Chaotic good
+
 Background
 :   Merchant/guild member
 
@@ -16,3 +19,12 @@ Weapon
 
 Description
 :   a hypercapitalist kobold with a heart of gold.
+
+Stats
+:  
+    * STR 7 (-2)
+    * DEX 12 (1)
+    * CON 10 (0)
+    * INT 16 (3)
+    * WIS 12 (1)
+    * CHA 16 (3)

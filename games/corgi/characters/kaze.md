@@ -6,4 +6,10 @@ Species
 :   Minotaur
 
 Class
-:   Cleric/Wizard/Paladin
+:   Wizard
+
+Alignment
+:   Lawful good
+
+Description
+:   The Best Robe(tm) Wants to create better social order for non-humans
