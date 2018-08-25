@@ -2,7 +2,7 @@
 title: Characters
 ---
 
-* ([Maddy](maddy))
-* ([Doxi](doxi))
-* ([Faolan](faolan))
-* ([Kaze](kaze))
+* ([Sera (Makyo)](sera))
+* ([(Doxi)](doxi))
+* ([Faolan Truthminer (Faolan)](faolan))
+* ([(Kaze)](kaze))
