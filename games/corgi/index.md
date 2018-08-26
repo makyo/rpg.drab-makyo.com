@@ -2,9 +2,15 @@
 title: Corgi's D&D Campaign
 ---
 
-[Characters](characters)
+### Setting
 
-## Races
+This is set in a desert-ish area akin to the middle-east, ranging from dry tundra to the north and high desert to the south, with a more fertile area in the middle akin to mesopotamia.
+
+### Characters
+
+There are [4 player-characters and 0 NPCs](characters).
+
+### Races
 
 * Dwarves - conservative
 * Kobolds - hypercapitalist
@@ -12,6 +18,6 @@ title: Corgi's D&D Campaign
 * Humans - either way
 * Minotaurs - communists
 
-## Religions
+### Religions
 
-zoroastrianism, with some desert tribes worshipping local deities
+Primarily Zoroastrianism-esque monotheism, with some desert tribes worshipping local deities. Magic exists, but most aren't aware of it or treat magical things as just "weird things happen sometimes".

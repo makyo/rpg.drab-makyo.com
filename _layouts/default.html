@@ -35,6 +35,7 @@
         <span class="blc"></span><span class="trc"></span>
         </div>
         <article class="markdown-body">
+            {% if page.title %}<h2>{{ page.title }}</h2>{% endif %}
           {{ content }}
         </article>
       </div>
