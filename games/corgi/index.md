@@ -6,6 +6,8 @@ title: Corgi's D&D Campaign
 
 This is set in a desert-ish area akin to the middle-east, ranging from dry tundra to the north and high desert to the south, with a more fertile area in the middle akin to mesopotamia.
 
+[![World map](assets/world-map.png){: style="max-width: 500px; margin: 0 auto; display: block;" }](assets/world-map.png)
+
 ### Characters
 
 There are [4 player-characters and 0 NPCs](characters).
