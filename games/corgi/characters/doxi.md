@@ -25,10 +25,10 @@ Speed
 
 Traits
 :  
-    * Darkvision - Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
-    * Dwarven resilience - You have advantage on saving throws against poison, and you have resistance against poison damage.
-    * Dwarven combat training - You have proficiency with the battleaxe, handaxe, throwing hammer, and warhammer.
-    * Dwarven armor training - You have proficiency with light and medium armor.
+    * Darkvision --- Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+    * Dwarven resilience --- You have advantage on saving throws against poison, and you have resistance against poison damage.
+    * Dwarven combat training --- You have proficiency with the battleaxe, handaxe, throwing hammer, and warhammer.
+    * Dwarven armor training --- You have proficiency with light and medium armor.
 
 Background
 :   Noble
