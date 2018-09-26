@@ -1,5 +1,5 @@
 ---
-title: ... (Doxi's character)
+title: Braeburn Mcleary (Doxi's character)
 ---
 
 [Corgi's D&D Campaign](/games/corgi) &raquo; [Characters](/games/corgi/characters)
