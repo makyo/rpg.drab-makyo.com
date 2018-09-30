@@ -1,5 +1,5 @@
 ---
-title: ... (Kaze's character)
+title: Augt Ehsim (Kaze's character)
 ---
 
 [Corgi's D&D Campaign](/games/corgi) &raquo; [Characters](/games/corgi/characters)
@@ -31,6 +31,6 @@ Traits
     * Gore --- A minotaur can make an attack with his horns, causing 1d8 piercing damage plus his Strength modifier.  If the target is a creature of the same size or smaller, it must succeed on a DC 12 Strength saving throw or be 5 feet away and knocked prone.
 
 Description
-:   The Best Robe(tm) Wants to create better social order for non-humans
+:   The Best Robe(tm) Wants to create better social order for non-humans. Guild member of wood-carver's guild. Very passionate about wood. "WOOD CARVER not CARPENTER - don't fuck it up."
 
 Taken from [here](https://www.dndbeyond.com/characters/races/1259-minotaur)

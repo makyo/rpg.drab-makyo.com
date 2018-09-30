@@ -14,6 +14,9 @@ Race
 Class
 :   Rogue
 
+Background
+:   Charlatan
+
 Alignment
 :   True neutral
 
@@ -31,4 +34,4 @@ Traits
     * Dwarven toughness --- Your hit point maximum increases by 1, and it increases by 1  every time you gain a level.
 
 Description
-:   shitstirrer news peddler - Founder & "biggest beard" of DTNN *DwarvenTunnel News Network*. Has spent must of his life mining for the deepest nuggets of "truth" that nobody else is willing to find. At least thats what he tells people. After all fake news isn't fake if they never find out.
+:   shitstirrer news peddler - Founder & "biggest beard" of TNN *Tunnel News Network*. Has spent must of his life mining for the deepest nuggets of "truth" that nobody else is willing to find. At least thats what he tells people. After all fake news isn't fake if they never find out.
