@@ -9,3 +9,7 @@
 * Very fine dwarven wood
 * A really pretty nice rug
 * A longbow
+* gold bar (100gp)
+* herbs
+* 5 days rations for one person
+* Bushel of wheat
