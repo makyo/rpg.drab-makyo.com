@@ -10,17 +10,16 @@
 * A longbow
 * gold bar (100gp)
 * herbs
-* 5 days rations for one person
 * Half a bushel of wheat
 * Horse (silverbolt)
 * Dire wolf (Verhofstadt)
 * Slave (Uhask)
-* fifty gold from pouch
+* 10 gold, 5 silver
 * shield
 * bow
 * club
 * ritualistic dagger
-* 20 days rations
+* 10 days rations
 * sleeping bag
 * tent
 * rope
