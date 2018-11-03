@@ -12,7 +12,7 @@
 * 2x Horse (Silverbolt and Elephant)
 * Slave (Uhask)
 * 10 gold
-* 5 silver
+* 13 silver
 * shield
 * bow
 * club
@@ -38,17 +38,14 @@
 * Grapling hook - 4 lb
 * Healers kit x2 - 3 lb - 1.5 lb
 * Merchant's scale - 3 lb
-* Small sack of ground turmeric - 7.5 lb
-* Sack of cumin x 2 - 90 lb - 45 lb
-* Barrel of mint x 3 - 180 lb - 60 lb each
 * Barrel of water x 3 - 240 lb - 80 lb each
 * Cook's utensils - 8 lb
 * Chest of sumac x 4 - 35 lb - 10 lb each + 5 sprigs
-* Chest of pipe weed - 10 lb
 * Locked chest - 5 lb
 * Key -0.1l lb
 * Fine scabbard - 0.5 lb
-* 10 chickens in cages - 20 lb - 2 lb each
 * 100 torches - 100 lb - 1 lb each
 * 115 gold
+* 445gp, 7sp, 4cp
+* 50gp
 * Crate full of salt
