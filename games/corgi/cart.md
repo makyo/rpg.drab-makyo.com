@@ -50,5 +50,5 @@
 * Fine scabbard - 0.5 lb
 * 10 chickens in cages - 20 lb - 2 lb each
 * 100 torches - 100 lb - 1 lb each
-* 120 gold
+* 115 gold
 * Crate full of salt
