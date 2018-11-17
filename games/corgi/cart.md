@@ -11,8 +11,6 @@
 * Half a bushel of wheat
 * 2x Horse (Silverbolt and Elephant)
 * Slave (Uhask)
-* 10 gold
-* 13 silver
 * shield
 * bow
 * club
@@ -46,6 +44,6 @@
 * Fine scabbard - 0.5 lb
 * 100 torches - 100 lb - 1 lb each
 * 115 gold
-* 445gp, 7sp, 4cp
-* 50gp
+* 354 gp, 90sp, 4cp
 * Crate full of salt
+* 23 rations
