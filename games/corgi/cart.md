@@ -43,7 +43,15 @@
 * Key -0.1l lb
 * Fine scabbard - 0.5 lb
 * 100 torches - 100 lb - 1 lb each
-* 115 gold
+* 113 gold
 * 354 gp, 90sp, 4cp
 * Crate full of salt
 * 23 rations
+* 2 parchments
+* Waystone
+* Ancient looking pendant - have seen these around, but not sure what it relates to, heavier than it should be, warm, flickering a bit.
+* Unicorn horn which could be used as a makeshift weapon.
+* fine staff
+* 1 ruby
+* 1 emerald
+* letter (head to the northeast and bring back the horn - [signature of the guy who took down Munjim])
