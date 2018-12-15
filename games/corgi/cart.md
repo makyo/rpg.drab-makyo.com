@@ -57,3 +57,4 @@
 * letter (head to the northeast and bring back the horn - [signature of the guy who took down Munjim])
 * ~~10~~ 9 *perfect* (arrow) shafts
 * 1 month worth of grain for the horses
+* 50ft rope
