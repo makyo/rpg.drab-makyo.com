@@ -6,7 +6,6 @@
 * Fine box from Mumjim Al'Jawahir
 * Hempen rope
 * A longbow
-* gold bar (100gp)
 * herbs
 * Half a bushel of wheat
 * 2x Horse (Silverbolt and Elephant)
@@ -43,8 +42,7 @@
 * Key -0.1l lb
 * Fine scabbard - 0.5 lb
 * 100 torches - 100 lb - 1 lb each
-* 113 gold
-* 354 gp, 90sp, 4cp
+* 567 gp, 90sp, 4cp
 * Crate full of salt
 * 23 rations
 * 2 parchments
