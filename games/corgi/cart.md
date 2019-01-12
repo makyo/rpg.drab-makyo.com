@@ -37,12 +37,12 @@
 * Merchant's scale - 3 lb
 * Barrel of water x 3 - 240 lb - 80 lb each
 * Cook's utensils - 8 lb
-* Chest of sumac x 4 - 35 lb - 10 lb each + 5 sprigs
+* Chest of sumac x 4 - 3v5 lb - 10 lb each + 5 sprigs
 * Locked chest - 5 lb
 * Key -0.1l lb
 * Fine scabbard - 0.5 lb
 * 100 torches - 100 lb - 1 lb each
-* 567 gp, 90sp, 4cp
+* 507 gp, 90sp, 4cp
 * Crate full of salt
 * 23 rations
 * 2 parchments
