@@ -42,7 +42,8 @@
 * Key -0.1l lb
 * Fine scabbard - 0.5 lb
 * 100 torches - 100 lb - 1 lb each
-* 507 gp, 90sp, 4cp
+* 497 gp, 90sp, 4cp total
+    * 100gp with us in a pouch
 * Crate full of salt
 * 23 rations
 * 2 parchments
