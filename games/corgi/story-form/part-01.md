@@ -1,3 +1,6 @@
+---
+---
+
 Hopping down from the bed of the cart, Sarai Azoulay slipped her pack onto her shoulders once more, buckled her short sword to her belt once more, and dug in one of her vest's many pouches, parting reluctantly with five coppers for the last night's fare of her journey.
 
 The first night on the road to Munjim al'Jawahir, she'd done her best to earn her keep. Men, dwarves, and the odd minotaur, however, were far sturdier folk than kobolds, and she could do little to keep up. She'd had to settle for spending five coppers a night for the next six nights of the journey from Aleawalim, quickly eating into her ready cash for the trip. The only reason she'd even gotten that rate was for her help in finding food and water on the road. That, after all, required neither strength nor indeed much effort. She was in her element, and knew the hills well enough.
@@ -129,3 +132,211 @@ The king's voice was too quiet to be heard, but it sounded far happier than it h
 And with that, the dwarf had swept them off to a wing of the palace.
 
 -----
+
+"Eragon Braeburn, of Braeburn industries. I'll be your...liaison for the evening. You will be staying in the north wing of the palace, in the guest quarters. To reach the palace, you will have to travel through the courtyard for security's sake."
+
+That Sarai had been lumped in with Augt was, in and of itself, baffling, but to be led around by a dwarf noble, however gruff and businesslike, was near incomprehensible. Still, if she wanted to do her trade, she would have to go along with whatever game the rulers of Munjim were playing. No sense in testing her limits by asking too many questions. Instead, she followed along two paces behind this Eragon while Augt struggled to keep his pace slow enough to follow.
+
+"While the court usually entertains palace guests for dinner, the arrival of the elf lord has canceled such." There was a pause, and then a grumble, "Thus me showing you to the city."
+
+After showing them to their quarters, Eragon led the kobold and minotaur into the city proper.
+
+Munjim filled the cavern neatly, the dwarves' blocky buildings crouched low along the floor and rising up toward the edges as the natural bowl-shaped floor rose to meet the ceiling. The perimeter buildings such as the castle were built into the walls themselves, while the central market and trade areas were toward the lower center.
+
+The trio walked downhill.
+
+Eragon pointed out a few sights and, at one point, Sarai even managed a small trade of an emerald for an almost equal size lump of the dwarves' famed fl'eghks. The walk continued, Eragon extolling the metal's virtues while Sarai and Augt nodded politely.
+
+Augt seemed mostly to be on the prowl - at least, as much as a minotaur could prowl - for his own trade. He was less lucky. As warned, few trees grew underground, and the scraggly evergreens on the mountains were too fibrous for him to use.
+
+At one point, they stopped at an auction where a few chunks of ironwood were being sold, but Aught watched with a pained expression on his face as the numbers quickly climbed out of his price range.
+
+They made it to a tavern, Augt taking over and extolling ironwood's virtues while Sarai and Eragon nodded politely.
+
+"So," Sarai hazarded, once Eragon had landed them in a tavern he promised was excellent. "Who was that entering the hall after us? On the palanquin I mean."
+
+Augt nodded, "Beautifully carved."
+
+"That? That was...I don't rightly know his name, but he's an elven lord from Ardu Alamuk[^check]. Very important sort. Have to be to address his majesty like that." Eragon shrugged at his beer and, watching out the low window, added, "There's to be a celebration in his honor, I'm told."
+
+"Celebration?"
+
+"Yeah, though I'm not really sure why."
+
+Augt nodded sagely, as though the mysteries of the ruling class were well known to him.
+
+Less trusting of that, Sarai probed. "Do you not know, as a member of the court?"
+
+Eragon smirked. "My lizard friend, you may be well traveled, but you plainly don't know much about dwarven politics."
+
+"I suppose I don't," Sarai said frostily.
+
+"Still, I could ask." And with that, Eragon levered himself up from his low seat. Sarai hadn't expected him to ask right then, but as he headed toward the bar, she understood. Innkeepers held all sorts of interesting facts.
+
+When Eragon returned to the table, he brought with him a platter of bread and dried meat, as well as a satisfied smile. "There's to be a celebration tonight because of what the elf lord brought. It wasn't materials or any other trade goods, but one strange object - a box or scroll, the barkeep's heard both - which is supposed to bring unprecedented riches to the land."
+
+"And that's tonight?"
+
+"Soon. I don't know if it's to be tonight, per se."
+
+After eating, they spent a tiring few hours wandering the city looking for the dwarves' equivalent of a woodcarvers' guild for Augt to visit during his stay, Eragon always promising it was just around the next corner. When the minotaur eventually did spot it, he was disappointed to see the "crude carvings, better suited to stone."
+
+Sarai had to agree. There had been beautiful carvings in Aleawalim, from whence she had just traveled, where they carved wood with sharpened tools of salt.
+
+The trudge back up the hill reminded Sarai of how tired travel left her, even if all she was doing was riding in a cart and foraging for her passage. Throughout the city on their way up, the could hear the sounds of merriment beginning.
+
+----
+
+"I don't see what all the fuss is about. This is a dwarven city."
+
+"But I don't fit!" Augt hollered.
+
+"Well, I fit just fine." Sarai smirked. This got a smile out of even Eragon, who had shown them back to their quarters.
+
+The minotaur grumbled as he started to untie the blanket from his pack and spread it out on the floor. Even taking the floor next to the incredibly bulky dwarven bed, he would on just be able to stretch out to his full length.
+
+The celebrations outside were audible even within the room, and seemed to have reached a near fevered pitch. Even as he explained his people's famed skill at partying, Eragon looked worried. "If a fête were happening tonight, I should have been informed," he grumbled. "All that cheering, too."
+
+"That is not cheering," Augt said, frowning toward the window. "That is screaming."
+
+Before Eragon could reply, there came a bang on the door, and then another.
+
+"Open the door, quick! In the name of the king!"
+
+Eragon rushed to do so, and stumbled back when the king himself fell through. The screams were unmistakable now, coming from both outside the window and out in the hallway. The king spun around and whipped a ceremonial ax from his belt to bar the door.
+
+"Do you have weapons?" he hollered. "Put those on, put them on! If you're good for nothing else, at least protect your king."
+
+Sarai was already out of bed and halfway into her pack, and Augt already lashing his crudely wadded-up bedding to his pack once more.
+
+"Your majesty, what happened?" Eragon asked, brow furrowed.
+
+"We were tricked," the king growled. "We were lied to. There's blood everywhere, blood and--"
+
+There came another shuddering bang at the door, and the two dwarves stepped back. The king drew a ceremonial rapier, which looked no less functional for all its finery. Eragon had drawn his sward from the scabbard strapped to his back. When Sarai had first seen it, she had thought it unnecessarily ostentatious, but now, seeing the blade, she could tell that it was well loved, and well used.
+
+Another bang. The kobold re-sheathed her sword and slid the thin bow from her where it was strapped to her pack and strung it with the sinew from a waterproof pouch on her fest. She moved with a practiced ease, despite the effort required to still the tremor in her claw.
+
+There was no celebration left in the din beyond door and window, only the screams of the dying and the sound of flames.
+
+With the third bang, the door started to splinter and dust was shaken loose from the frame.
+
+"Bad place for a stand," Eragon muttered.
+
+The king, however, had left the door behind and was busy ripping the sheets and bedding off of the bed Sarai had been laying in not a minute before. Beneath the straw bedding was a series of wooden planks which, when lifted, revealed a steep staircase descending into darkness.
+
+"Ancient passage. I explored this whole wing as a child. this will get us out of the city." The king jumped at another loud bang to the door. "We have an hour at the outside. Eragon and you, lizard, in front. You, beast. Follow after me. I want something sturdy between me and them."
+
+"Who's 'them'?" Augt asked, but the king was already pushing Sarai down into the passage.
+
+The stairway was surprisingly short, perhaps only two floors, which would put them only a foot or so beneath the ground. Thankfully it was large enough that Augt did not have to stoop too low. Piled at the bottom were several torches, three of which Sarai lit and passed around. She moved ahead of the others, letting them follow her. She could see best in the dark, after all, and a torch would have taken up one of her hands that was needed for her bow.
+
+Any hopes that the route out of the palace would be easy were quickly dashed. The first corner they rounded dumped them into a small room, where they were greeted by several dwarves, axes drawn.
+
+Sarai's relief at seeing armed dwarves lasted only the time it took to get a look at one of them in the firelight. His throat had been slit from ear to ear, and it looked as though its arm had been cut to the bone. Eyes glowing a faint bluish tinge, it muttered something inaudible and stomped toward the four.
+
+Sarai slipped the wall and made to loose her arrow at the attacker, but the king lunged into the room and obscured her shot.
+
+"Never send peasants to do a king's job," he yelled and lunged with his rapier.
+
+And missed.
+
+Luckily, so did the dwarf.
+
+The battle that followed was loud, chaotic, and over in seconds. Sarai killed a dwarf - if such could be said of one who appeared already dead - with a quick shot of her bow, Eragon one with his sword, and Augt, after a mighty bellow, one with his fists. The king worried the final dwarf at the point of his rapier a moment before dispatching him at last.
+
+"The same happened upstairs," the king muttered between hissed breaths. Augt was bandaging a slice on his shoulder with a strip of cloth. "I couldn't wait to open Jaroudi's[^check] gift, if it was to bring unprecedented riches. It was a scroll. As soon as I began to read, the guards in the chamber began to act strange. A blue cast came over their faces, and they rose up to slay me."
+
+"Your majesty--"
+
+Before Eragon could finish his thought, the ceiling of the room gave way in one great crash. The four leaped to their feat once more, weapons at the ready.
+
+As the dust settled, a large dwarf lifted himself up from the rubble and, coughing, dusted himself off. "Ah," he grinned. "Your majesty."
+
+Augt brought his fist up as if to strike this new intruder, but the dwarf held his hands up. "Hold, my bovine friend. I am just here to inspect the foundations of the castle."
+
+"My apologies," Augt said. He straightened up, the better to offer a bow.
+
+"Hell and shit," the king growled. "Do not believe his lies. We don't have time for this. We must move quickly."
+
+"I see you have the sacred cow with you! That's good. I heard reports of foundations breaking down, so I thought I'd investigate. This will cost you dearly, I'm sorry to say." The new dwarf turned back to Augt and gave a formal bow. The grin never seemed to leave his face. "Faolan Truthminer, at your service."
+
+"No time, make haste." The king was already shoving Sarai in front of him down the corridor.
+
+A few more times through the passage, they ran into more of the ruined dwarves. Each time, they were attacked, and each time, they fought them off. Sarai was pleased to note the ease with which this Truthminer dwarf had taken up the work of defense, proving to be quite skilled at the rapier.
+
+Moreso than the king, it seemed. The monarch rarely managed a hit of his own, and at one point, had gotten himself stabbed as Faolan was striking out at a particularly bloody assailant.
+
+They'd had to stop at that point for Augt to tear another strip of his bedding to bandage the king once more. His trouble was more than rewarded, however, when they stumbled across a small pile of ironwood logs. Old, to be sure, but more wood than the minotaur could afford in the city above.
+
+*And,* Sarai thought. *It will be a better weapon than his fists, formidable though those may be.*
+
+Sarai had long since lost her since of direction in the warren of tunnels beneath the city, but both Eragon and the king brightened at some crude runes scratched into the wall at a bend. "Nearly there, nearly free!"
+
+"A sign?"
+
+"Graffiti," Faolan explained. "It says something magnificently rude. Been here for centuries, though."
+
+Sure enough, rounding the corner led them into a large chamber. It looked to be an abandoned store room, as despite the order evident in the goods kept there, everything was shabby and covered in dust.
+
+Everything, that is, except three dwarves and an elf.
+
+Sarai skittered into the room along one wall, trusting in the dim light to hide her from the unexpected foes.
+
+"It's too late, king of a broken throne. No one will make it out of Munjim." The voice of the elf was smooth and musical. "And even those who do will die in the desert before morning."
+
+The kobold watched as Eragon strode forward, greatsword held before him. "Coward!" His voice boomed, then was followed up by a low growl. "Those are the words of a coward."
+
+The elf fell back a step and held something out before him. A dagger? Some religious artifact?
+
+There was a flash of light, and then laughter from Eragon.
+
+"A coward hiding behind cheap tricks." On 'tricks', the dwarf gave an almost casual swing of the sword, describing a graceful arc across the elf's chest.
+
+There was a scream and a shower of blood.
+
+Sarai knew her moment when she saw it, and the arrow she'd been holding leaped from her bow and struck the far wall of the storeroom, passing neatly through a dwarf in the process.
+
+Another scream drew her attention back to the elf, just in time to see him fall beneath the king's rapier and Eragon's blade, head spinning away from body.
+
+Before she could move any closer, however, there was a noise. Or, rather, a terrible silence: a non-noise that drowned out any other possible noises. The elf's corpse twitched, rolled onto its back, and then exploded up into the room. Skin and flesh peeled back from bone, bone turned to dust, and what was left was a non-shape, something to be made out only by that which it obscured. Darkness filled the room, as though pressing in against the light of the torches.
+
+Eragon struck out with his sword, cutting at the shadow-stuff of whatever the elf had become. A pained cry filled the room and a dark tendril lashed out, striking the king across the face hard enough to send him flying.
+
+The next moments were a confused blur. Augt bellowed loud enough for Sarai to stop in her tracks, tucking just in time for an ax to flick past the end of her snout. One of the ruined dwarves. She turned quickly, in a complete circle, sweeping his feet from beneath him with the bulk of her tail.
+
+Dead, blue eyes stared up at her, and still he struggled. She drew her sword in her off-hand and struck until the dwarf, already far beyond death, was too damaged to move.
+
+Another roar from the minotaur brought her gaze up once more. The king's body thudded to the ground at Augt's feet, the beast stepping over him protectively and swinging the beam at the head of the final ruined dwarf hard enough that the sound echoed throughout the room.
+
+Sarai loosed two arrows in quick succession at the indistinct form of the devil, each knoking it back further. One more strike each from Eragon and Faolan, and, with a shriek, the demon fell. Faolan sliced once more, but by then, there was nothing left.
+
+Light flared once more from the torches.
+
+Augt stumbled away from the king, leaving the two remaining dwarves to kneel beside him.
+
+Sarai walked forward cautiously. The room was silent but for the wet coughs of the king. She knew that sound, knew that the king had perhaps minutes left. Gesturing to Augt with a toss of her snout, the two moved further into the room to leave the king with his kinsfolk.
+
+Sarai checked her pack to ensure that no damage had come to her wares. On a whim, she prowled briefly around the circumference of the room. There wasn't likely to be anything worth taking from a storeroom such as this, but perhaps there were some bottles or waterskins to be had. She had no plans on staying within the city.
+
+No skins were to be found, but she did come across a single glass bottle. It was full, and it looked fine. Very fine. She slipped it into her pack.
+
+Looking up to see if anyone had noticed, she saw only Augt, inspecting a massive rug in his great hands. Massive to her, of course, but it might just make good replacement bedding for one of his stature.
+
+"Faolan, Eragon," she called softly. "We should move quickly."
+
+-----
+
+"Your majesty--"
+
+The king shook his head eyes clenched shut. "No time. Not much time left. Find Rola Tabsh--" He was interrupted with a coughing fit, weaker this time. "Find Rola Tabsh Jaroudi. He did this, he...find Rola...he..."
+
+The king's head lolled and his chest struggled to rise in a few agonal breaths before his life slipped from him.
+
+Eragon sighed and sat up.
+
+Bushing one hand down over the king's face, Faolan gently brushed his eyes shut. With his other, he crossed the king's arms over his chest, ensuring in the process that he came away with the king's signet ring secreted in his palm.
+
+-----
+
+[^check]: check with corgi
