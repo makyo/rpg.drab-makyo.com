@@ -1,17 +1,17 @@
 ---
 ---
 
-Hopping down from the bed of the cart, Sarai Azoulay slipped her pack onto her shoulders once more, buckled her short sword to her belt once more, and dug in one of her vest's many pouches, parting reluctantly with five coppers for the last night's fare of her journey.
+Hopping down from the bed of the cart, Sarai Azoulay slipped her pack onto her shoulders once more, buckled her short sword to her belt, and dug in one of her vest's many pouches, parting reluctantly with five coppers for the last night's fare of her journey.
 
-The first night on the road to Munjim al'Jawahir, she'd done her best to earn her keep. Men, dwarves, and the odd minotaur, however, were far sturdier folk than kobolds, and she could do little to keep up. She'd had to settle for spending five coppers a night for the next six nights of the journey from Aleawalim, quickly eating into her ready cash for the trip. The only reason she'd even gotten that rate was for her help in finding food and water on the road. That, after all, required neither strength nor indeed much effort. She was in her element, and knew the hills well enough.
+The first night on the road to Munjim al'Jawahir, she'd done her best to earn her keep. Men, dwarves, and the odd minotaur, however, were far sturdier folk than kobolds, and she had little strength to offer, compared to them. She'd had to settle for spending five coppers a night for the next six nights of the journey from Aleawalim, quickly eating into her ready cash for the trip. Even then, the only reason she'd gotten that rate was for her help in finding food and water on the road. That, after all, required neither strength nor indeed much effort. She was in her element, and knew the hills well enough.
 
-She just needed to get to Munjim, get her trade on, and move on. This whole scheme depended on her never staying in place for long, and if she could make it down to Aijtimae before the rains came, she'd probably still be on track.
+She just needed to get to Munjim, get her trade on, and keep moving. This whole scheme depended on her never staying in place for long, and if she could make it down to Aijtimae before the rains came, she'd probably still be on track.
 
 The carts, circled now within the customs yard, had a lengthy procedure ahead of them, but Sarai had all of her wares on her, both within her pack and secreted in the many pockets of her traveling vest. Her trade would be fast, easy, and small.
 
 At least at first.
 
-The scheme dreamed up in her guild back home was a bit short on details, but easy enough to implement. Sarai, as the one with the most experience on the road, was to gin up the emerald trade in the eastern kingdoms. Get it moving smoothly through several fronts, buy here, sell there, never hold much stock at once - at least not to the outside eyes. After all, her pack was double-walled, and between the lining and the outside were several fortunes worth of the precious stones.
+The scheme dreamed up in her guild back home was short on details, but easy enough to implement. Sarai, as the one with the most experience on the road, was to gin up the emerald trade in the eastern kingdoms. Get it moving smoothly through several fronts, buy here, sell there, never hold much stock at once - at least not to the outside eyes. After all, her pack was double-walled, and between the lining and the outside were several fortunes worth of the precious stones.
 
 Once the trade was moving rapidly, she'd dump all of her stock over the course of a few short days, crashing the new, still fragile market.
 
@@ -19,7 +19,7 @@ Then she, through one of her more magnanimous fronts, would come in and start bu
 
 Worst case - and the guild had stressed the 'worst' part of this outcome - she'd be able to come back with a small profit and the gems in her pack untouched.
 
-Sarai wasn't quite sure how she felt about the scheme. It was mostly sound in theory, but it was a theory based upon the guild's expectations of how the eastern kingdoms worked. Expectations that weren't uninformed so much as incomplete. Sarai had traveled the area far more than others in her guild had, and knew far more than she really wanted to about the dwarves and minotaurs in the area. Which had, of course, been the guild's justification for sending her.
+Sarai wasn't quite sure how she felt about the scheme. It was mostly sound in theory, but it was a theory based upon the guild's expectations of how the eastern kingdoms worked. Expectations that weren't wrong so much as incomplete. Sarai had traveled the area far more than others in her guild had, and knew far more than she really wanted to about the dwarves and minotaurs in the area. Which had, of course, been the guild's justification for sending her.
 
 There was also the suspicion that, as a relatively difficult kobold, getting her out from underclaw was a second, unspoken reason for sending her.
 
@@ -37,7 +37,7 @@ She knew the next steps.
 
 She'd start at the top, though her expectations were low, which meant heading to the palace.
 
-It was, as always, bedecked out front by a loose queue of traders, nobles, penitents, and even a few bound criminals. Perhaps there was a trail set in one of the lesser halls. All of them were dwarves.
+It was, as always, bedecked out front by a loose queue of traders, nobles, penitents, and even a few bound criminals. Perhaps there was a trial set in one of the lesser halls. All of them were dwarves.
 
 Well, all but one.
 
@@ -57,7 +57,7 @@ The minotaur hiked his own pack up further onto his shoulder and tucked his pape
 
 "What do you trade in?"
 
-"I buy wood, I sell wood carvings. Not carpentry, mind. Wood carvings. The fine stuff. Very important distinction that many miss, there."
+"I buy wood, I sell wood carvings. Not carpentry, mind," he hastened to add. "Wood carvings. The fine stuff. Very important distinction that many miss, there."
 
 Sarai nodded. "I suppose there is, at that." She had picked a good companion, as it were, to enter the halls with. Someone trading in finery, but not the same type as she was planning to trade in. "What's your name, anyhow?"
 
@@ -65,7 +65,7 @@ Sarai nodded. "I suppose there is, at that." She had picked a good companion, as
 
 Sarai gave a flourish with her tail - greeting enough among kobolds - followed by a short bow of her own. "Sarai. May your wares sell and your competitors fail."
 
-The minotaur looked sick, at which Sarai had a private smile. The beasts were smart enough, often quite cunning, but, well...if there were a polar opposite to the kobolds' trading empire and prowess, the minotaurs were it. They only traded as a matter of necessity. They didn't know the true joy of feeling money and good flow, of power of wealth accumulated. Ah well, poor fools.
+The minotaur looked stricken, at which Sarai had a private smile. The beasts were smart enough, often quite cunning, but, well...if there were a polar opposite to the kobolds' trading empire and prowess, the minotaurs were it. They only traded as a matter of necessity. They didn't know the true joy of feeling money and goods flow, of the power of wealth accumulated. Ah well, poor fools.
 
 The queue moved along with the stolid efficiency that was common to the dwarves, and before long, kobold and beast were at the door.
 
@@ -73,7 +73,7 @@ Sarai gestured for the minotaur to precede her. Her pitch would likely go over b
 
 Wrong footed, Sarai and Augt both stumbled through the doors and into the chill, echoing hall.
 
-What the dwarves lacked in nicety, they made up in grandeur. The space seemed larger even than the cavern that contained the palace. Simple banners hung between the columns, looking all the more grand for their simplicity. The floor echoed claw- and hoofsteps, the marble tile unmarred by carpet or rug.
+What the dwarves lacked in nicety, they made up in grandeur. The space seemed larger even than the cavern that contained the palace. Simple banners hung between the columns, looking all the more grand for their spotless simplicity. The floor echoed claw- and hoofsteps, the marble tile unmarred by carpet or rug.
 
 Lining the walkway toward the king stood parallel rows of the court, courtiers, and the old families, standing nearly at attention, cold eyes following the traders.
 
@@ -83,11 +83,15 @@ With another tail-flourish and bow, both far more respectful, Sarai stepped forw
 
 "And you?"
 
-Augt's papers were already out in his oversized hands, hoof-tipped fingers trembling has he thrust them toward the king and bowed. It was a sideways gesture, curious unless you knew that it was intended to point the horns away from the recipient. Sarai had traded - or attempted to trade - with the minotaurs enough to have guessed such. "Your majesty, your humble servent travels from Ard al'Abqar for trade. I seek to purchase fine wood and in exchange bring grain for brewing, and my skills as a master carver of fine--"
+Augt's papers were already out in his oversized hands, hoof-tipped fingers trembling has he thrust them toward the king and bowed.
+
+It was a sideways gesture, curious unless you knew that it was intended to point the horns away from the recipient. Sarai had traded - or attempted to trade - with the minotaurs enough to have guessed such.
+
+"Your majesty," he said. "Your humble servent travels from Ard al'Abqar for trade. I seek to purchase fine wood and in exchange bring grain for brewing, and my skills as a master carver of fine--"
 
 The king held up a gauntleted hand. Augt fell silent. "I'm well aware of the trade of the kobolds, and I understand even the...righteous minotaurs deign occasionally to trade with us." With a creak of his armor, he leaned forward, a smile touching the corners of his mouth. "But I don't believe you. Either of you. Why are you really here? A single kobold is nearly unheard of, and Munjim al'Jawahir has not requested grain from the polit."
 
-Sarai was ready for this. One had to be ready, but she had experienced such from the dwarves before. "Your majesty, by your leave, I will explain. My guild has sent me as a lone representative as one well versed in travel between cities to pole the sands and check our prospects before a more, ah...expensive venture is to be undertaken. Think of me as an trade emissary."
+Sarai was ready for this. One had to be ready, and she had experienced such from the dwarves before. "Your majesty, by your leave, I will explain. My guild has sent me as a lone representative as one well versed in travel between cities to pole the sands and check our prospects before a more, ah...expensive venture is to be undertaken. Think of me as an trade emissary."
 
 The king looked thoughtful, nodded, and turned an imperceptible amount toward Augt.
 
@@ -95,11 +99,11 @@ The king looked thoughtful, nodded, and turned an imperceptible amount toward Au
 
 The king laughed. "We live in a cave, my very tall friend. Do you suppose many trees grow down here?"
 
-Augt's features went from hopeful to hopeless in a heartbeat.
+Augt, who had already started to look hopeless, was now looking as though he'd be sick.
 
 "To think that we might want beer from a lizard and a cow." There was another laugh from the throne, this more cruel than the last. "You're going to have to do better than that. Come, I see a flute, show me you mean it."
 
-Sarai's eyes darted up toward the minotaur, who shakingly unsheathed what Sarai had supposed was some short staff, though seeing it in Augt's hands, she realized just how small it was to the beast. He carefully extracted a fine-looking wooden flute and put it to his lips.
+Sarai's eyes darted up toward the minotaur, who shakingly unwound what Sarai had supposed was some short staff from his pack, though seeing it in Augt's hands, she realized just how small it was to the beast. He carefully extracted a fine-looking wooden flute from its sleeve and put it to his lips.
 
 "And you, lizard, shall accompany your traveling companion."
 
@@ -115,11 +119,11 @@ At a gesture, a stately dwarf detached himself from the line near the king and b
 
 "Please show our esteemed guests to a room. Their amusement will grant them a bed in the palace tonight." Never had a gift sounded so insulting to Sarai. And the king well knew it, if the glint in his eye was anything to go by.
 
-The courtly dwarf stiffed, nodded slowly and paced down the hall toward Sarai and Augt. He looked less than pleased, but all the same, bowed to the kobold and minotaur, gesturing them out of the hall.
+The courtly dwarf stiffed, nodded slowly, and paced down the hall toward Sarai and Augt. He looked less than pleased, but all the same, bowed to the kobold and minotaur, gesturing them out of the hall.
 
 As the trudged toward the door, they were greeted by the pure note of a trumpet, then two, then four.
 
-They had to scurry to the side to allow room for a gilded palanquin to be trotted in before the king. The fineness of their clothing and weapons, the smoothness of their skin, their height, and their gate all gave them away as elves. Rich ones, at that.
+They had to scurry to the side to allow room for a gilded palanquin to be trotted in before the king. The fineness of their clothing and weapons, the smoothness of their skin, their height, and their gait all gave them away as elves. Rich ones, at that.
 
 Sarai watched over her shoulder as long as she could and listen for as long as she could after.
 
@@ -135,7 +139,7 @@ And with that, the dwarf had swept them off to a wing of the palace.
 
 "Eragon Braeburn, of Braeburn industries. I'll be your...liaison for the evening. You will be staying in the north wing of the palace, in the guest quarters. To reach the palace, you will have to travel through the courtyard for security's sake."
 
-That Sarai had been lumped in with Augt was, in and of itself, baffling, but to be led around by a dwarf noble, however gruff and businesslike, was near incomprehensible. Still, if she wanted to do her trade, she would have to go along with whatever game the rulers of Munjim were playing. No sense in testing her limits by asking too many questions. Instead, she followed along two paces behind this Eragon while Augt struggled to keep his pace slow enough to follow.
+That Sarai had been lumped in with Augt as 'traveling companion' was, in and of itself, baffling, but to be led around by a dwarf noble, however gruff and businesslike, was near incomprehensible. Still, if she wanted to do her trade, she would have to go along with whatever game the rulers of Munjim were playing. No sense in testing her limits by asking too many questions. Instead, she followed along two paces behind this Eragon while Augt struggled to keep his pace slow enough to follow.
 
 "While the court usually entertains palace guests for dinner, the arrival of the elf lord has canceled such." There was a pause, and then a grumble, "Thus me showing you to the city."
 
@@ -147,7 +151,7 @@ The trio walked downhill.
 
 Eragon pointed out a few sights and, at one point, Sarai even managed a small trade of an emerald for an almost equal size lump of the dwarves' famed fl'eghks. The walk continued, Eragon extolling the metal's virtues while Sarai and Augt nodded politely.
 
-Augt seemed mostly to be on the prowl - at least, as much as a minotaur could prowl - for his own trade. He was less lucky. As warned, few trees grew underground, and the scraggly evergreens on the mountains were too fibrous for him to use.
+Augt seemed mostly to be on the prowl - at least, as much as a minotaur could prowl - for his own trade. He was less lucky. As warned, few trees grew underground, and the scraggly evergreens on the mountains were too soft and fibrous for him to use.
 
 At one point, they stopped at an auction where a few chunks of ironwood were being sold, but Aught watched with a pained expression on his face as the numbers quickly climbed out of his price range.
 
@@ -155,7 +159,7 @@ They made it to a tavern, Augt taking over and extolling ironwood's virtues whil
 
 "So," Sarai hazarded, once Eragon had landed them in a tavern he promised was excellent. "Who was that entering the hall after us? On the palanquin I mean."
 
-Augt nodded, "Beautifully carved."
+Augt nodded. "Beautifully carved."
 
 "That? That was...I don't rightly know his name, but he's an elven lord from Ardu Alamuk[^check]. Very important sort. Have to be to address his majesty like that." Eragon shrugged at his beer and, watching out the low window, added, "There's to be a celebration in his honor, I'm told."
 
@@ -179,7 +183,7 @@ When Eragon returned to the table, he brought with him a platter of bread and dr
 
 "Soon. I don't know if it's to be tonight, per se."
 
-After eating, they spent a tiring few hours wandering the city looking for the dwarves' equivalent of a woodcarvers' guild for Augt to visit during his stay, Eragon always promising it was just around the next corner. When the minotaur eventually did spot it, he was disappointed to see the "crude carvings, better suited to stone."
+After eating, they spent a tiring few hours wandering the city looking for the dwarves' equivalent of a woodcarvers' union for Augt to visit during his stay, Eragon always promising it was just around the next corner. When the minotaur eventually did spot it, he was disappointed to see the "crude carvings, better suited to stone."
 
 Sarai had to agree. There had been beautiful carvings in Aleawalim, from whence she had just traveled, where they carved wood with sharpened tools of salt.
 
@@ -233,7 +237,7 @@ The stairway was surprisingly short, perhaps only two floors, which would put th
 
 Any hopes that the route out of the palace would be easy were quickly dashed. The first corner they rounded dumped them into a small room, where they were greeted by several dwarves, axes drawn.
 
-Sarai's relief at seeing armed dwarves lasted only the time it took to get a look at one of them in the firelight. His throat had been slit from ear to ear, and it looked as though its arm had been cut to the bone. Eyes glowing a faint bluish tinge, it muttered something inaudible and stomped toward the four.
+Sarai's relief at seeing armed dwarves lasted only the time it took to get a look at one of them in the firelight. It's throat had been slit from ear to ear, and it looked as though its arm had been cut to the bone. Eyes glowing a faint bluish tinge, it muttered something inaudible and stomped toward the four.
 
 Sarai slipped the wall and made to loose her arrow at the attacker, but the king lunged into the room and obscured her shot.
 
@@ -303,7 +307,7 @@ Before she could move any closer, however, there was a noise. Or, rather, a terr
 
 Eragon struck out with his sword, cutting at the shadow-stuff of whatever the elf had become. A pained cry filled the room and a dark tendril lashed out, striking the king across the face hard enough to send him flying.
 
-The next moments were a confused blur. Augt bellowed loud enough for Sarai to stop in her tracks, tucking just in time for an ax to flick past the end of her snout. One of the ruined dwarves. She turned quickly, in a complete circle, sweeping his feet from beneath him with the bulk of her tail.
+The next moments were a confused blur. Augt bellowed loud enough for Sarai to stop in her tracks, ducking just in time for an ax to flick past the end of her snout. One of the ruined dwarves. She turned quickly, in a complete circle, sweeping his feet from beneath him with the bulk of her tail.
 
 Dead, blue eyes stared up at her, and still he struggled. She drew her sword in her off-hand and struck until the dwarf, already far beyond death, was too damaged to move.
 
@@ -333,9 +337,9 @@ The king shook his head eyes clenched shut. "No time. Not much time left. Find R
 
 The king's head lolled and his chest struggled to rise in a few agonal breaths before his life slipped from him.
 
-Eragon sighed and sat up.
+Eragon sighed and sat up, staring at the ceiling.
 
-Bushing one hand down over the king's face, Faolan gently brushed his eyes shut. With his other, he crossed the king's arms over his chest, ensuring in the process that he came away with the king's signet ring secreted in his palm.
+Bushing one hand down over the king's face, Faolan gently pressed his eyes shut. With his other, he crossed the king's arms over his chest, ensuring in the process that he came away with the king's signet ring secreted in his palm.
 
 -----
 
