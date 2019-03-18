@@ -107,7 +107,7 @@ The elf seemed to be making his own calculation before he - and Sarai guessed it
 
 By the time Sarai returned with Augt and Faolan, Eragon having decided to remain with the packs (though Sarai brought her bow, Faolan his rapier, and Augt his ironwood wrapped in the Munjim rug), the elf had managed to light a torch, and she could see him for the trader he was. Coarser than the elves that had borne Rola Tabsh into the palace in Munjim, but still bearing the fine caramel skin and mien of his race. "A kobold, a dwarf, and a minotaur! Wonder of wonders. Come."
 
-The faint glow from over the next rise told the trio that the main camp had relit their own fires, and they were greeted with the sight of a large camp, crowded with men and elves, two carts at the center with horses staked nearby.
+The faint glow from over the next rise told the trio that the main camp had relit their own fires, and they were greeted with the sight of a large camp, crowded with men and elves, two carts at the center with two horses staked near each. Dogs barked at their arrival, alerting the camp.
 
 The elderly elf who greeted them looked up in surprise at Augt. "Oh! You are slavers!"
 
@@ -141,7 +141,7 @@ The flash was intense and the noise loud, and Sarai could sense both Augt and Fa
 
 "I speak truth. We were were there to trade."
 
-"I know that," Kandake snapped. "You are a kobold, you trade. It is in your blood. I did not ask why you were there. I want to know what *happened*."
+"I know that," Kandake snapped. "You are a kobold, you trade. It is in your blood. I did not ask why you were there. I want to know what the fuck *happened*."
 
 "There was an Elven ambassador. He promised riches. There was a giant party, then a massacre, and then the mountain came down around us"
 
@@ -152,3 +152,195 @@ Faolan had recovered from the flash of the stunning arrow and spoke up next. "Th
 Kandake held up her hand, and both her and the trio looked about, alarmed.
 
 The men of the hill tribes had fallen to their knees as one and were keening toward the sky, arms raised.
+
+Kandake stalked over toward the tribesmen and, grabbing the oldest by the collar of his shirt, hauled him to his feet. The elf was stronger than she had first appeared. "What is this? What's happening?"
+
+"The prophecy! The prophecy!" he wailed.
+
+"What prophecy?"
+
+"The end times! Demons will come, souls will be consumed, flesh corrupted. A thousand years of darkness await us before the prophet comes." His accent was thick, but he spoke more fluently than his kinsmen. Sarai supposed he must be the leader of the tribe.
+
+Kandake whirled to face the trio, dragging the elder with her. "Did you have anything to do with this?"
+
+Augt spoke hastily. "We were just there for trade, truthfully. We were as caught up in as the dwarves themselves."
+
+"Many escaped," Faolan added. "Many ran, we must just be the first to make it this far."
+
+Kandake slumped, setting the elder tribesman down onto his knees once more. The keening resumed, quieter this time.
+
+"I suppose I have no choice but to believe you." A wicked grin twisted her features and she raised her hand once more. Two elves within the camp raised their bows to aim toward the travelers. "I've seen some crazy shit in my life. I'll let you live, just give me the fucking rug."
+
+Augt stamped his foot and shouted, "You...you awful..."
+
+Kandake's grin turned to an amused smile, and then she laughed. She lowered her hand and shook her head, pacing back to the fire. She settled back to her seat and took a pull from what Sarai supposed was a wine skin. She certainly didn't seem wholly sober. "Hell and shit, but you are fools. Tell me, Sarai, Faolan, does he always stammer when people fuck with him?"
+
+Sarai shook her head in exasperation. Faolan only grinned.
+
+The howling from the tribesmen had calmed down to a low murmur of prayer. The language was familiar to Sarai as that spoken in the hills to the west of Fustat, though she had heard it as far north as Aleawalim. The hill tribes were a superstitious lot, largely keeping to themselves. She'd met them, but never had they offered anything to trade.
+
+"You," the Elder said, pointing to Augt. "I speak little of the common speech. I speak better of Minotaur. You. We talk."
+
+Augt and Sarai followed the man to crouch near the fire by Kandake.
+
+"The prophecy says that God would grow weary of the wickedness in the world," the elder said. Sarai spoke some minotaur, enough to follow, but Augt translated much of the conversation into the common speech for Kandake. "Out of his displeasure, he would send down angry spirit, who would consume our spirits through idols. The world would be covered with blood, blood that would boil and corrode until it reduced the world to its raw form, that it one day be remade anew when we are forgiven."
+
+"How are these spirits described?"
+
+"They are incomprehensible to the minds of men. We cannot perceive their entirety. They come in many shapes and varieties."
+
+Augt mulled over this for a moment, perhaps thinking of what the elf beneath Munjim had become. Eventually he spoke once more. "Have any others arrived from Munjim?"
+
+"None," the elder said. "We came from Fustat, and have seen none others on the trail."
+
+There was another silence, broken by Faolan. "Ask if he knows of this?" He reached beneath his shirt and withdrew a pendant, which he showed to the tribesman.
+
+The elder stiffened and turned away. When he spoke again, his voice was carefully controlled. "When I was younger, we would carve these and sell them to the dwarves when we needed to trade. It says, ah...it says that the number of men who have lain with his mother is greater than the stars in the sky."
+
+Augt brought his oversized hand quickly to his muzzle as though to rub at his chin, hiding a smile as he did so. Sarai pretended to pick at her vest as the minotaur translated. "It is a blessing in their tongue. He says if you show it to a barman in some towns, you will receive a discount."
+
+Faolan bowed deeply and returned the pendant to his tunic. "Thank you, my friend." To Kandake, he added, "We have one other in our party guarding the remainder of our packs. By your leave, I will go and fetch him and our kit."
+
+Kandake frowned, but waved Faolan on. the dwarf trotted out of the firelight, retracing his steps.
+
+"I am Uhask," the elder said once Faolan had left. "I am the shaman to my tribe. I lead my warriors to help the elf woman Kandake."
+
+"What is her quest?" Augt asked. "What are you doing to help?"
+
+"We are but guides and guards. We do not ask questions, we are simply useful."
+
+In broken minotaur, Sarai asked, "On road to Fustat, any danger?"
+
+Uhask shrugged. "Not so much, in these times."
+
+"Well, in these times," Augt trailed off, simply waving northwest, toward Munjim.
+
+Kandake, who had been paying little attention to the conversation in language she did not speak, sat up. "Is there anything left of Munjim?"
+
+"Well, there is the customs yard, but the cavern city has caved in."
+
+"Is there no one to trade with?"
+
+Sarai shook her head.
+
+"Hell and shit," the elf repeated, settling back against her pack. "We were already lost after the first incident."
+
+Augt frowned. "The first incident?"
+
+Kandake sighed and prodded at the fire listlessly. "Two days back, our caravan was attacked. And only a day outside of Fustat. We lost two of our carts and Aran, one of our company."
+
+"I am sorry to say that we have not seen them."
+
+"There's a bounty on their heads." The elf laughed nervously. "Or there will be. I am looking for some help on the matter, perhaps your company would be interested? What are your prices?"
+
+Augt leaned in closer to Sarai and asked in minotaur, "What do you think? Thirty a head? Fifty?"
+
+"Seventy gold tekel a head," the kobold said.
+
+"Seventy, shit." The elf did spit at this. "I know those who would do it for twenty-five."
+
+"We are better than most."
+
+"You certainly did not show your martial prowess earlier." Kandake laughed.
+
+"We were acting on good faith," the minotaur growled.
+
+"No bandit would do that. How are you sure you would not be brought in by their honeyed words? Let me barter with the kobold. That is their role."
+
+"You speak of bandits. I know these parts," Sarai said. "Bandits in the east, we could not do it for less than fifty a head."
+
+"Forty, but I will give you three hundred fifty for each cart that comes back." The elf smirked. "Worst comes to worst, you die and I will not have to pay. You may stay in our camp this night."
+
+Augt nodded and stood, moving to welcome Eragon and relay the events of the night.
+
+"So is he a slave?" Kandake asked.
+
+Sarai shook her head. "No. A bit dim, perhaps, but a free creature."
+
+"I remember, years ago, the war. I fought for their freedom, you know. I regret it, now."
+
+Sarai said nothing. She was fond of the minotaur, after their short time together, but daren't risk their position.
+
+"Ah! Another dwarf. We have made a small deal, my friend. I hear that you do a lot of damage." The elf gave a hint of a bow. "I am Kandake. I hail from Ardu Alamuk, yet have been on the road these many years."
+
+Eragon bowed formally. "Well met, Kandake. I am Eragon Braeburn of Munjim al'Jawahir."
+
+The rest of the night passed without further event, other than Kandake's jovial racism. With the tribesmen to keep guard, they bedded down for an early morning, intending to break camp before the heat of the day struck.
+
+Their dreams were broken and disturbing images of chanting and prayer to greet a bloody moon.
+
+-----
+
+Distressing dreams aside, the travelers woke well-rested before much of the rest of the camp. Augt worked to rekindle the fire, mentioning that he would enjoy his tack and water warm for once.
+
+Sarai scowled around the camp. The tribesmen were not to be seen. Perhaps one of them should have kept watch, as well. She clutched at her pack and dug for the sumac within, composing her words about the watch to Kandake.
+
+Her pack was light. Far too light.
+
+As a traveler, she knew her pack and kept it well organized, and as a merchant, she knew her wares. Thankfully, the emeralds were all there, as was the sumac and all of her tack and meat.
+
+What wasn't there, however, was the fine bottle of wine.
+
+"Quick, check your packs! We've been robbed!"
+
+Eragon shouted and leaped to his feet, hastily pawing through his satchel. He had been the least prepared for the flight from Munjim, and had the most to lose.
+
+Kandake looked tousled and hungover as she stalked from her tent. "What's all this, then?"
+
+"We had a bottle of wine," Sarai growled. "Which is now missing. Do you know where they might have gone?"
+
+"Where who have gone?"
+
+"Your guards! The hillfolk who were supposed to be keeping watch!"
+
+Kandake shouted, hand flashing to the hilt of her dagger. "Awake! Awake!"
+
+Noise filled the camp.
+
+"How could this-- Uhask! What in the name of hell are you playing at?"
+
+The tribal leader strode slowly into the camp, hands shaking and bloodied, holding a finely wrought dagger. "I have done it. I have done it, and you must come and see."
+
+Leaving Eragon and Faolan to watch the packs, Sarai and Augt dashed quickly after Kandake.
+
+The tribesmen were all dead. Their throats had been cut cleanly their mouths stuffed with cloth torn from their robes, and crude runes drawn on their foreheads in blood.
+
+A moment's horrified silence was shattered by yelling and shouting. Most of the elves looked horrified. Kandake looked furious. "What have you done?"
+
+"I have given them one last night of joy," Uhask groaned, tearing at his clothes. "And I have spared them from the horrors to come."
+
+There, beside the corpses was the bottle from Sarai's pack, empty. She picked it up and shook it in her claws at the elder. "You...you stole from us and slew your own men! What madness drove you to this?"
+
+Tears stained Uhask's cheeks and he shook his head, stammering in both the lingua franca and minotaur. "The prophecy, the prophecy..."
+
+The elves and Augt moved toward the bodies on the sand, and the elder cried out, "No! You can't! you mustn't!" To Augt, he gabbered in minotaur, "Please, leave them their dignity in death."
+
+Augt stood straight and held up his hands.
+
+"Please, my lords, I will pay whatever you like! Leave my men."
+
+Kandake leveled her dagger at the man. "You may only pay what is yours, worm."
+
+"I will give you the very clothes off my back, lord." He scrabbled at his belongings, tossing the ritual dagger as well as his shield in the sand before them. This was followed, after some rustling, by a jingling pouch. "Fifty gold tekel, our wages."
+
+Eragon, who had run upon hearing the din, shook his fist at the man. "The trouble you have caused is worth more than fifty tekel. More than your life, perhaps."
+
+Uhask spat on the ground. "Mortal threats do not scare me. I care only for their souls."
+
+Kandake snatched the empty bottle from Sarai's claws and held it up to the light. "Shit." A look of renewed anger came over her face. "This was Muhit wine. A bottle such as this would have fetched several thousand tekel." She smelled at the mouth of the bottle, gave a wistful sigh, and lifted it to get the last few drops.
+
+Eventually, Kandake raised her hand. "Here is what will happen. You will take Uhask as your servant and guide. Additionally, you will receive all of his and his men's supplies. There should be several days worth of tack, beef, and water. Their tent and rope as well. You can even take that hell-begotten scroll they carry everwhere."
+
+Uhask stood with a shout, which Kandake silenced with a glare. "If I see you again, worm, I will drag you from Fustat to Ardu Alamuk behind my horse."
+
+The elder subsided once more, looking profoundly unhappy.
+
+"Consider that prepayment for your work. This worm and his good would just be dead weight to us otherwise, and we would abandon him. Better that he serve you. You may also take one of the horses as payment for the wine."
+
+"Lend us one of your dogs as well," Sarai said.
+
+"My dogs?" The elf looked taken aback. "Why a dog?"
+
+"To help us track, and to help us stay on guard at night."
+
+Kandake side. "So be it. Take Vershta. You must return him to me, though, along with the carts."
