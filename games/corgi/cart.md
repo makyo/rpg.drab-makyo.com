@@ -1,7 +1,11 @@
 ---
 ---
 
-### Cart/party contents (currently in dwarven customs)
+### Cart contents (currently in dwarven customs), the side of which contains the text "Do you mind if I go get a cup of tea?"
+
+**_FUCKING NOTHING_**
+
+We lost all of this in one go. Kudos us.
 
 * Fine box from Mumjim Al'Jawahir
 * Hempen rope
@@ -42,18 +46,23 @@
 * Key -0.1l lb
 * Fine scabbard - 0.5 lb
 * 100 torches - 100 lb - 1 lb each
-* 497 gp, 90sp, 4cp total
-    * 100gp with us in a pouch
 * Crate full of salt
 * 23 rations
-* 2 parchments
 * Waystone
 * Ancient looking pendant - have seen these around, but not sure what it relates to, heavier than it should be, warm, flickering a bit.
 * Unicorn horn which could be used as a makeshift weapon.
 * fine staff
-* 1 ruby
-* 1 emerald
-* letter (head to the northeast and bring back the horn - [signature of the guy who took down Munjim])
 * ~~10~~ 9 *perfect* (arrow) shafts
 * 1 month worth of grain for the horses
 * 50ft rope
+
+### Stuff we took with us
+
+* 30pp, 2gp, 90sp, 4cp total
+    * 10pp with us in a pouch
+* Plenty of sumac
+* Unicorn horn
+* 1 emerald, 1 ruby
+* letter (head to the northeast and bring back the horn - [signature of the guy who took down Munjim])
+* 2 parchments
+* Cursed scroll and translation
