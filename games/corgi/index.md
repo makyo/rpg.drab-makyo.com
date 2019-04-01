@@ -10,6 +10,8 @@ This is set in a desert-ish area akin to the middle-east, ranging from dry tundr
 
 ### Characters
 
+![dumb-meme.gif](assets/Dumb-Meme.gif)
+
 There are [4 player-characters](characters). They have [some stuff](cart)
 
 ### Races
