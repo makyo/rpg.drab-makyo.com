@@ -8,6 +8,8 @@ This is set in a desert-ish area akin to the middle-east, ranging from dry tundr
 
 [![World map](assets/world-map.png){: style="max-width: 500px; margin: 0 auto; display: block;" }](assets/world-map.png)
 
+[![Ard al'Abqar](assets/Ard_al_Abqar_Map.jpg){: style="max-width: 500px; margin: 0 auto; display: block" }](assets/Ard_al_Abqar_Map.jpg)
+
 ### Characters
 
 ![dumb-meme.gif](assets/Dumb-Meme.gif)
