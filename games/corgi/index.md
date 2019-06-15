@@ -1,5 +1,5 @@
 ---
-title: Corgi's D&D Campaign
+title: A Series of Unfortunate Betrayals
 ---
 
 ### Setting

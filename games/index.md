@@ -2,4 +2,4 @@
 title: Games
 ---
 
-* [Corgi's D&D campaign](corgi)
+* [A Series of Unfortunate Betrayals](corgi)

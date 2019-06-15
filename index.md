@@ -3,3 +3,5 @@ title: RPG games and notes
 ---
 
 Just a collection of notes and such about RPG games.
+
+* [A Series of Unfortunate Betrayals](games/corgi)
