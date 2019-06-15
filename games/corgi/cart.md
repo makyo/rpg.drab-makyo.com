@@ -3,6 +3,8 @@
 
 ### Cart contents (currently in dwarven customs), the side of which contains the text "Do you mind if I go get a cup of tea?"
 
+Now, we have a [camel](/games/corgi/camel)
+
 **_FUCKING NOTHING_**
 
 We lost all of this in one go. Kudos us.
