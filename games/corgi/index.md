@@ -30,6 +30,16 @@ There are [4 player-characters](characters). They have [some stuff](cart)
 
 Primarily Zoroastrianism-esque monotheism, with some desert tribes worshipping local deities. Magic exists, but most aren't aware of it or treat magical things as just "weird things happen sometimes".
 
+Most of society is monotheist, worshipping  the four prophets which all emphasised different aspects of God.
+
+Amon - Purity - Represented by light, the sun, and the stars
+
+Cyhtega - Wisdom - Represented by knowledge, scholarly symbols, and long rolls of text
+
+Hastar - Anger - Represented by war, weaponry, and fire
+
+Eliphas - Love - Represented by life, nature, and the moon
+
 ### Sessions
 
 {% for post in site.categories.corgi %}

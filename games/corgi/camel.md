@@ -13,3 +13,7 @@
 * 19pp, 5gp (w/ sarai)
 * Box of gems, silver bracelet, ruby, 2 deep blue spindles, 2 okay emeralds, 1 awesome emeralds, Five emeralds - four decent, one enormous, very good one. (w/ sarai)
 * 10lbs various seeds (mostly wheat, some herbs)
+* 2x Glave
+* Cartographer's tools
+* 15 healer's kits (10x uses each)
+* Saul's crown
