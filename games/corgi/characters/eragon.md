@@ -1,5 +1,5 @@
 ---
-title: Eragon Braeburn (Doxi's character)
+title: Erogan Braeburn (Doxi's character)
 ---
 
 [Corgi's D&D Campaign](/games/corgi) &raquo; [Characters](/games/corgi/characters)

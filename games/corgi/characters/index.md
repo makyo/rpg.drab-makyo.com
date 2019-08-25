@@ -5,6 +5,6 @@ title: Characters
 [Corgi's D&D Campaign](/games/corgi)
 
 * [Sarai (Makyo)](sarai)
-* [Eragon Braeburn (Doxi)](eragon)
+* [Erogan Braeburn (Doxi)](Erogan)
 * [Faolan Truthminer (Faolan)](faolan)
 * [Augh Ehsim (Kaze)](augt)
