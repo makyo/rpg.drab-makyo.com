@@ -17,3 +17,4 @@
 * Cartographer's tools
 * 15 healer's kits (10x uses each)
 * Saul's crown
+* 10 arrows
