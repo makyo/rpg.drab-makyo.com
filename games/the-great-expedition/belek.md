@@ -2,11 +2,11 @@
 title: Belek Oorzhak
 ---
 
-## Description
+### Description
 
 Belek Oorzhak is a cat from the mountains above the steppes. Their pelt is thick in a mottled grey, though when the light is right, some of the splotches look a bit brown, the better to blend into the rough granite of the area. There's little enough that can actually be seen of that, though, as the cat is garbed from head to toe in clothes that have seen better days, but are certainly tough and functional. They also serve to obscure Belek's form, loose enough to keep them from being easily identified. This ambiguity extends to their voice, a solidly androgynous sound that can pass as masculine or feminine. It's all carefully constructed to let them put on an appearance and then later drop it so that they can become someone else, befitting a charlatan.
 
-## Story
+### Story
 
 "Every five years we must take down every scroll, stack by stack, and replace the rugs beneath them. We must also unroll the scroll and make note of its condition," the monk rasped. "The latter will not be your responsibility, young one, but we are happy to provide you with a cot in the dormitory, and you will be welcome at the refectory during your stay here. Can you eat our food?"
 
