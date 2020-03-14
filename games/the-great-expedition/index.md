@@ -5,7 +5,10 @@ title: The Great Expedition
 ### Characters
 
 * [Belek Oorzhak](belek) --- Cat folk --- Warlock
-* ...
+* Brother Grimbald Frey --- Werewolf --- Fighter
+* Norzen --- Human --- Monk
+* Dro'Khan --- Cat folk --- Rogue
+* Aliz Skultety --- Human --- Druid Hermit
 
 ### Town
 
