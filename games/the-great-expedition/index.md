@@ -25,3 +25,7 @@ title: The Great Expedition
 
 * [Player's Handbook](players-handbook.pdf)
 * [Buildings and settlement management](buildings.pdf)
+
+### Recordings
+
+[The Great Expedition on archive.org](https://archive.org/details/the-great-expedition)
