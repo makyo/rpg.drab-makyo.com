@@ -26,6 +26,23 @@ title: The Great Expedition
 * [Player's Handbook](players-handbook.pdf)
 * [Buildings and settlement management](buildings.pdf)
 
+### Rolls
+
+<div class="ko-roll">
+<h4>KO roll (<code>/roll 1d40</code>)</h4>
+<input type="number" placeholder="Input: /roll 1d40" onchange="koRoll(this.value) "/> <em>or</em> <button onclick="koRoll(-1)">Roll</button><br/>
+<span class="description"></span>
+</div>
+
+<div class="bc-roll">
+<h4>Bestial Curse (<code>/roll 1d100</code>)</h4>
+<input type="number" placeholder="Input: /roll 1d100" onchange="bcRoll(this.value)" /> <em>or</em> <button onclick="bcRoll(-1)">Roll</button><br/>
+<em class="title">Result...</em><br/>
+<span class="description"></span>
+</div>
+
+<script src="rolls.js"></script>
+
 ### Recordings
 
 [The Great Expedition on archive.org](https://archive.org/details/the-great-expedition)
