@@ -10,6 +10,8 @@ title: The Great Expedition
 * Dro'Khan --- Cat folk --- Rogue
 * Aliz Skultety --- Human --- Druid Hermit
 
+#### NPCs
+
 * The Sovereign (Theodore) via a Pyotr
 * The Sovereign's son, Vasily
 
