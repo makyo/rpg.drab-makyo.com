@@ -6,7 +6,7 @@ title: The Great Expedition
 
 * [Belek Oorzhak](belek) --- Cat folk --- Warlock
 * Brother Grimbald Frey --- Werewolf --- Fighter
-* Minister Loomis Kanevsky
+* Minister Loomis Kanevsky --- Human --- Wizard
 * Dro'Khan --- Cat folk --- Rogue
 * Aliz Skultety --- Human --- Druid Hermit
 
