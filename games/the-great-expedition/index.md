@@ -6,7 +6,7 @@ title: The Great Expedition
 
 * [Belek Oorzhak](belek) --- Cat folk --- Warlock
 * Brother Grimbald Frey --- Werewolf --- Fighter
-* ~~Norzen --- Human --- Monk~~
+* Minister Loomis Kanevsky
 * Dro'Khan --- Cat folk --- Rogue
 * Aliz Skultety --- Human --- Druid Hermit
 
@@ -14,6 +14,10 @@ title: The Great Expedition
 
 * The Sovereign (Theodore) via a Pyotr
 * The Sovereign's son, Vasily
+
+### RIP In Pieces
+
+* Norzen --- Human --- Monk
 
 ![Do not want](grrcats.png)
 
