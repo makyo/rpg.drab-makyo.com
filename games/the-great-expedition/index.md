@@ -29,6 +29,7 @@ title: The Great Expedition
 
 * [Player's Handbook](players-handbook.pdf)
 * [Buildings and settlement management](buildings.pdf)
+* [Countries](countries.pdf)
 
 ### Rolls
 
