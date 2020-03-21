@@ -41,7 +41,7 @@ title: The Great Expedition
 
 <div class="bc-roll">
 <h4>Bestial Curse (<code>/roll 1d100</code>)</h4>
-<input type="number" placeholder="Input: /roll 1d100" onchange="bcRoll(this.value)" /> <em>or</em> <button onclick="bcRoll(-1)">Roll</button><br/>
+<input type="number" placeholder="Input: /roll 1d100" onkeyup="bcRoll(this.value)" /> <em>or</em> <button onclick="bcRoll(-1)">Roll</button><br/>
 <em class="title">Result...</em><br/>
 <span class="description"></span>
 </div>
