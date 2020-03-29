@@ -14,12 +14,15 @@ title: The Great Expedition
 
 * The Sovereign (Theodore) via a Pyotr
 * The Sovereign's son, Vasily
+* Iki "Fishmasher" Volavogon, fisher goblin
+* Noyaven Yavinov, fisher human
+* Uri, one-armed fisher human
+* Pavel Viakov, hunter human
+* Kak Voi, hunter corvid
 
 ### RIP In Pieces
 
 * Norzen --- Human --- Monk
-
-![Do not want](grrcats.png)
 
 ### Unismus (the town)
 
@@ -51,3 +54,11 @@ title: The Great Expedition
 ### Recordings
 
 [The Great Expedition on archive.org](https://archive.org/details/the-great-expedition)
+
+![Do not want](memes/grrcats.png)
+
+![Want](memes/Ernst-Stravo-Blofeld_soy3re.jpg)
+
+![damnit](memes/damnit.png)
+
+![Potat](memes/dog-explain-your-smolness-am-potat-i-am-potato.jpg)
