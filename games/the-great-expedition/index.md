@@ -4,7 +4,7 @@ title: The Great Expedition
 
 ### Characters
 
-![The group gets a crit](The_Group_gets_a_crit.gif)
+![The group gets a crit](memes/The_Group_gets_a_crit.gif)
 
 * [Belek Oorzhak](belek) --- Cat folk --- Warlock
 * Brother Grimbald Frey --- Werewolf --- Fighter
