@@ -64,3 +64,7 @@ title: The Great Expedition
 ![damnit](memes/damnit.png)
 
 ![Potat](memes/dog-explain-your-smolness-am-potat-i-am-potato.jpg)
+
+![Splat](memes/splat.gif)
+
+![Which](memes/Which_loomis_are_you_today.png)
