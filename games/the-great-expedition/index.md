@@ -9,22 +9,40 @@ title: The Great Expedition
 * [Belek Oorzhak](belek) --- Cat folk --- Warlock
 * Brother Grimbald Frey --- Werewolf --- Fighter
 * Minister Loomis Kanevsky --- Human --- Wizard
-* Dro'Khan --- Cat folk --- Rogue
+* ~~Dro'Khan~~ Stepan Vasilyiev --- Cat folk --- Rogue
 * Aliz Skultety --- Human --- Druid Hermit
 
 #### NPCs
 
 * The Sovereign (Theodore) via a Pyotr
 * The Sovereign's son, Vasily
-* Iki "Fishmasher" Volavogon, fisher goblin
-* Noyaven Yavinov, fisher human
-* Uri, one-armed fisher human
-* Pavel Viakov, hunter human
-* Kak Voi, hunter corvid
+* Prospector
+    * Thron Gorachi
+* Fishers
+    * Iki "Fishmasher" Volavogon, fisher goblin
+    * Noyaven Yavinov, fisher human
+    * Uri, one-armed fisher human
+* Hunters
+    * Pavel Viakov, hunter human
+    * Kak Voi, hunter corvid
+* Guards
+    * Avari Vonusa
+    * Aleks Therag
+    * Ivan Draztini
+    * Vanessa Ovagon
+    * Phiri Anklebiter Berakov - halfling
 
 ### RIP In Pieces
 
 * Norzen --- Human --- Monk
+
+### Map
+
+[![Map](map.jpg)](map.jpg)
+
+### Calendar
+
+[![Calendar](calendar.jpg)](calendar.jpg)
 
 ### Unismus (the town)
 
@@ -68,3 +86,5 @@ title: The Great Expedition
 ![Splat](memes/splat.gif)
 
 ![Which](memes/Which_loomis_are_you_today.png)
+
+![Belek the torturer](memes/belek-the-torturer.gif)
