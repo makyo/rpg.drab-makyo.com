@@ -6,11 +6,21 @@ title: The Great Expedition
 
 ![The group gets a crit](memes/The_Group_gets_a_crit.gif)
 
-* [Belek Oorzhak](belek) --- Cat folk --- Warlock
-* Brother Grimbald Frey --- Werewolf --- Fighter
-* Minister Loomis Kanevsky --- Human --- Wizard
-* ~~Dro'Khan~~ Stepan Vasilyiev --- Cat folk --- Rogue
 * Aliz Skultety --- Human --- Druid Hermit
+  
+  "Trust in Nature!
+* Minister Loomis Kanevsky --- Human --- Wizard
+
+  "Trust in Bureaucracy!"
+* Brother Grimbald Frey --- Werewolf --- Fighter
+
+  "Trust in Faith!"
+* ~~Dro'Khan~~ Stepan Vasilyiev --- Cat folk --- Rogue
+
+  "Trust in your wits!"
+* [Belek Oorzhak](belek) --- Cat folk --- Warlock
+
+  "Trust in--" *peeks at DM's notes, takes 1d6 damage*
 
 #### NPCs
 
@@ -88,3 +98,5 @@ title: The Great Expedition
 ![Which](memes/Which_loomis_are_you_today.png)
 
 ![Belek the torturer](memes/belek-the-torturer.gif)
+
+![Tiers](memes/tiers.png)
