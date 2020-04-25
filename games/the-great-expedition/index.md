@@ -6,20 +6,14 @@ title: The Great Expedition
 
 ![The group gets a crit](memes/The_Group_gets_a_crit.gif)
 
-* Aliz Skultety --- Human --- Druid Hermit
-  
+* Aliz Skultety --- Human --- Druid Hermit  
   "Trust in Nature!
-* Minister Loomis Kanevsky --- Human --- Wizard
-
+* Minister Loomis Kanevsky --- Human --- Wizard  
   "Trust in Bureaucracy!"
-* Brother Grimbald Frey --- Werewolf --- Fighter
-
-  "Trust in Faith!"
-* ~~Dro'Khan~~ Stepan Vasilyiev --- Cat folk --- Rogue
-
+* ~~Dro'Khan~~ [Stepan Vasilyiev](stepan.pdf) --- Cat folk --- Rogue  
   "Trust in your wits!"
-* [Belek Oorzhak](belek) --- Cat folk --- Warlock
-
+* Kikarin ---- Corvid --- Forge cleric
+* [Belek Oorzhak](belek) --- Cat folk --- Warlock  
   "Trust in--" *peeks at DM's notes, takes 1d6 damage*
 
 #### NPCs
@@ -45,6 +39,8 @@ title: The Great Expedition
 ### RIP In Pieces
 
 * Norzen --- Human --- Monk
+* Brother Grimbald Frey --- Werewolf --- Fighter  
+  "Trust in Faith!"
 
 ### Map
 
