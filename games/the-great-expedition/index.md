@@ -96,3 +96,5 @@ title: The Great Expedition
 ![Belek the torturer](memes/belek-the-torturer.gif)
 
 ![Tiers](memes/tiers.png)
+
+![Strong Belek Energy](memes/bs-belek-meme.jpg)
