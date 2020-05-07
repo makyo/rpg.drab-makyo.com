@@ -16,6 +16,12 @@ title: The Great Expedition
 * [Belek Oorzhak](belek) --- Cat folk --- Warlock  
   "Trust in--" *peeks at DM's notes, takes 1d6 damage*
 
+### Companions
+
+* Regis (Aliz's horse)
+* Maximillian (Loomis's horse)
+* Horson Welles (Stepan's horse)
+
 #### NPCs
 
 * The Sovereign (Theodore) via a Pyotr
@@ -98,3 +104,13 @@ title: The Great Expedition
 ![Tiers](memes/tiers.png)
 
 ![Strong Belek Energy](memes/bs-belek-meme.jpg)
+
+![Crap rolls](memes/crap-rolls.png)
+
+![Fanon vs canon](memes/FANON_VS_CANON.jpg)
+
+![Flaming sphere](memes/FLAMING_SPHERE.jpg)
+
+![Rip and tear](memes/Rip_and_tear.png)
+
+![wombo combo](memes/WHOMBO_COMBO.jpg)
