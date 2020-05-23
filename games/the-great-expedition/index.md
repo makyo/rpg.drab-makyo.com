@@ -10,8 +10,6 @@ title: The Great Expedition
   "Trust in Nature!
 * Minister Loomis Kanevsky --- Human --- Wizard  
   "Trust in Bureaucracy!"
-* ~~Dro'Khan~~ [Stepan Vasilyiev](stepan.pdf) --- Cat folk --- Rogue  
-  "Trust in your wits!"
 * Kikarin ---- Corvid --- Forge cleric
 * [Belek Oorzhak](belek) --- Cat folk --- Warlock  
   "Trust in--" *peeks at DM's notes, takes 1d6 damage*
@@ -47,6 +45,8 @@ title: The Great Expedition
 * Norzen --- Human --- Monk
 * Brother Grimbald Frey --- Werewolf --- Fighter  
   "Trust in Faith!"
+* ~~Dro'Khan~~ [Stepan Vasilyiev](stepan.pdf) --- Cat folk --- Rogue  
+  "Trust in your wits!"
 
 ### Map
 
