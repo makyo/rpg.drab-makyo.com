@@ -10,15 +10,15 @@ title: The Great Expedition
   "Trust in Nature!
 * Minister Loomis Kanevsky --- Human --- Wizard  
   "Trust in Bureaucracy!"
-* Kikarin ---- Corvid --- Forge cleric
-* [Belek Oorzhak](belek) --- Cat folk --- Warlock  
+* Amos Moses --- Werewolf --- 
+* Karil Mikhailov II --- Human --- Cleric
+* [Belek Oorzhak](belek) --- Cat folk --- ~~Warlock~~ Monk  
   "Trust in--" *peeks at DM's notes, takes 1d6 damage*
 
 ### Companions
 
 * Regis (Aliz's horse)
 * Maximillian (Loomis's horse)
-* Horson Welles (Stepan's horse)
 
 #### NPCs
 
@@ -39,6 +39,7 @@ title: The Great Expedition
     * Ivan Draztini
     * Vanessa Ovagon
     * Phiri Anklebiter Berakov - halfling
+* Kikarin ---- Corvid --- Forge cleric
 
 ### RIP In Pieces
 
@@ -47,6 +48,7 @@ title: The Great Expedition
   "Trust in Faith!"
 * ~~Dro'Khan~~ [Stepan Vasilyiev](stepan.pdf) --- Cat folk --- Rogue  
   "Trust in your wits!"
+* Horson Welles (Stepan's horse)
 
 ### Map
 
