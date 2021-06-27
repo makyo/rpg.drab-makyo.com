@@ -2,6 +2,15 @@
 title: The Enemy Within
 ---
 
+# Characters
+
+* Bumblebee Bandersnatch --- halfling merchant/boatman
+* Finonel Darkmeadow --- elf horselord/grifter
+* "Heinrich Schmidt" --- ~human~ dwarf
+* Morgan "Hoteye" Muffel --- halfling ratcatcher
+
+# Calendar
+
 ![calendar](calendar.png)
 
 # Log
