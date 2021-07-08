@@ -15,6 +15,10 @@ title: The Enemy Within
 
 # Log
 
+## Day 5
+
+We're gonna go to this Locke, Stock, and Barl place, and we learn some rumors along the way. It turns out that that was a lure to try and get someone arrested for working with chaos, but then they, like...explode?? Meanwhile, Finonel is trying to get into the joust and it's just a magnificently terrible plan. Hilarity ensues. Hoteye is arrested and stockaded, Bumblebee gets Finonel and Thori arrested ten goes and gets a bath. The three miscreants get out, and Thori and Hoteye get wasted and become sign-carriers.
+
 ## Day 4
 
 We get out of dodge on Josef's urging since the noble's murder has the guards on edge. As we head down the river, some guards ride down next to us and warn us about a murder in the city, Bumblebee talks their ears off. Hoteye's cloak turns red??? There's a bounty hunter after "Heinrich" (that is, Thori) because he looks like [someone who has inherited gold and land](note.png) that he was going to impersonate. Some fuckers attacked the boat, probably for the bounty on Thori, but we fucked them up. Josef isn't super happy about it, and Finonel and Thori are snipping at each other.
