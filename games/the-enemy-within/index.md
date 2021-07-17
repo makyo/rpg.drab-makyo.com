@@ -15,6 +15,10 @@ title: The Enemy Within
 
 # Log
 
+## Day 6
+
+We go after a goblin in the sewers and it's an absolute fucking farce. We don't find the goblin we were hunting, but Thori does find a whole fuckload of chaos. We decide to go find a wizard to deal with it, Arnold Maibalm(?)
+
 ## Day 5
 
 We're gonna go to this Locke, Stock, and Barl place, and we learn some rumors along the way. It turns out that that was a lure to try and get someone arrested for working with chaos, but then they, like...explode?? Meanwhile, Finonel is trying to get into the joust and it's just a magnificently terrible plan. Hilarity ensues. Hoteye is arrested and stockaded, Bumblebee gets Finonel and Thori arrested ten goes and gets a bath. The three miscreants get out, and Thori and Hoteye get wasted and become sign-carriers.
